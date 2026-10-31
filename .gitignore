@@ -1,0 +1,9 @@
+# Obsidian 本地状态（每次打开都会变，不必入库）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
